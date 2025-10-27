@@ -1,0 +1,7 @@
+{
+  "name": "Orbit",
+  "description": "A beautiful voice assistant powered by Gemini. Interact with an AI through a natural, real-time conversation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
